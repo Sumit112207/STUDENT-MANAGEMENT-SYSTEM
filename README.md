@@ -1,2 +1,1 @@
-# Resume
-My Resume
+# STUDENT MANAGEMENT SYSTEM
